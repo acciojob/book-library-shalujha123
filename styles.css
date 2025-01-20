@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.book-library{
+	border: none;
+	border-radius: 10px;
+	margin: 30px auto;
+	text-align: center;
+	background-color: #ffffff;
+	box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+	width: 90%;
+	max-width: 600px;
+}
+
+.book{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
