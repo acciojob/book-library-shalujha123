@@ -17,7 +17,7 @@
 	min-height: 100vh;
 }
 
-h2{
+h1{
 	background-color: #DCDCDC;
 	padding: 15px;
 	margin-bottom: 15px
@@ -34,7 +34,7 @@ h2{
 	border: 1px solid #ddd;
 	border-radius: 5px;
 }
-h3,p{
+h2,p{
 	align-self: flex-start;
 }
 p{
